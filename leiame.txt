@@ -22,3 +22,5 @@ Um exemplo é:
 Os argumentos passados na linha de comando são o nome do arquivo .exe(no Windows), e em seguida a instância no formato .txt.
 Os demais argumentos, como qual algoritmo construtivo será executado, quais valores de alpha e número de iterações serão usados serão informados em tempo de execução,
 através da linha de comando.
+
+Neste repositório estão as instâncias que foram rodadas com sucesso, pr124, pr136
