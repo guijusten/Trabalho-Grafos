@@ -8,8 +8,11 @@ id_do_vértice coord_x coord_y
 Um exemplo é:
 
 10
+
 1 2 3
+
 2 1 4
+
 3 9 1
 4 5 1
 5 6 1
